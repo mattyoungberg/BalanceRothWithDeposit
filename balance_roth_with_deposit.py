@@ -22,7 +22,7 @@ class Args:
             description=(f'Calculates deposit amounts for my FZROX and FXNAX '
                          f'positions to keep the account balanced '
                          f'at {STOCK_PERCENTAGE}% and {100 - STOCK_PERCENTAGE}'
-                         f'respectively.'),
+                         f'% respectively.'),
             add_help=True
         )
 
