@@ -10,13 +10,13 @@ This script is useful because as shares in the funds fluctuate in value, the 95%
 The script takes command line arguments and can be run like this from your command line or terminal:
 
 ```
-C:\path\to\python.exe balance_roth_with_deposit.py 245.20 80.34 235.96 9.24
+C:\path\to\python.exe balance_roth_with_deposit.py 80.34 235.96 9.24
 ```
 
 ##### Positional Arguments:
 
-- Total Balance of the account (245.20)
-- Amount to deposit (80.34)
+
+- Amount of deposit (80.34)
 - Balance of position in FZROX (233.09)
 - Balance of position in FXNAX (12.11)
 
